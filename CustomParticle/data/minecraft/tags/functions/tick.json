@@ -1,0 +1,8 @@
+{
+	"values": [
+		"hs.kirby:tick",
+		"zzz_air_stream_internal:tick",
+		"animated_java:tick",
+		"particle:tick"
+	]
+}
