@@ -1,4 +1,4 @@
-# CustomParticele-By-HollySyu
+# CustomParticle By HollySyu
 
 ## 対応バージョン：1.20.2
 
